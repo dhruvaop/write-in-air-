@@ -7,7 +7,7 @@ Made with :-
  ~ Python
  ~ Pytorch
 
- ![](output_gif.gif)
+
 
 Skin tone of hand is extracted so that it works in different lighting conditions using Histogram and hand is pulled out from the image using Back-Projection.
 
